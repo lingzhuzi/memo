@@ -70,7 +70,7 @@ SCSS
 	chsh -s $(which zsh)
 
 oh my zsh 帮助文档：<https://github.com/robbyrussell/oh-my-zsh/wiki>	
-我的惯用主题：<./yanghui.theme>
+我的[惯用主题](./yanghui.zsh-theme)
 
 ## JAVA
 
@@ -94,7 +94,7 @@ oh my zsh 帮助文档：<https://github.com/robbyrussell/oh-my-zsh/wiki>
 
 下载安装即可，打开后会提示缺少某些字体，需下载字体安装，或者点击不再提示即可（如果不需要这些字体的话）。
 
-本git库提供了这些字体，下载后解压缩，按照其中的说明安装字体即可。
+本git库提供了[]这些字体](./WPS缺失字体.tar.gz)，下载后解压缩，按照其中的说明安装字体即可。
 
 ## 搜狗输入法
 
